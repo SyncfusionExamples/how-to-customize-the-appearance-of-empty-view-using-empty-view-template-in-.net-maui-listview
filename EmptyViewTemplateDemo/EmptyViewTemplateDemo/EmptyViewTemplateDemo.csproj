@@ -88,11 +88,5 @@
 	  <PackageReference Include="Syncfusion.Maui.GridCommon" Version="20.31.201" />
 	  <PackageReference Include="Syncfusion.Maui.ListView" Version="20.31.214" />
 	</ItemGroup>
-
-	<ItemGroup>
-	  <MauiXaml Update="View\MainPage.xaml">
-	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
-	</ItemGroup>
-
+	
 </Project>
