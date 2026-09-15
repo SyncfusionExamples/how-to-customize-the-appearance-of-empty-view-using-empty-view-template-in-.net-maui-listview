@@ -1,6 +1,6 @@
-# how-to-customize-the-appearance-of-empty-view-using-empty-view-template-in-.net-maui-listview
+# How to customize the appearance of empty view using EmptyViewTemplate in .NET MAUI ListView (SfListView)?
 
-This demo shows about how to customize the appearance of empty view using EmptyViewTemplate in .NET MAUI ListView
+This demo shows about how to customize the appearance of empty view using EmptyViewTemplate in .NET MAUI ListView (SfListView).
 
 ## XAML 
 <Grid Margin="0">
